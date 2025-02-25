@@ -3,6 +3,14 @@ Edit the code with the image you want to use for hiding the message. Python lang
 Before executing the code, make sure you install the cv2 in the cmd using " pip install cv2 " Then you can see an encryptedimage is created that contains the message inside the image. 
 If you check both the images, you won't find any differences in between them ,making it difficult to detect if any of the image contain any information.
 
+Process:- Encrypt the Data: Before hiding the message in an image, encrypt it using algorithms like AES, DES, or RSA. This ensures that even if the message is extracted, it remains unreadable.
+
+Encrypted Image Steganography uses or applications
+✔ Secure communication without detection 
+✔ Protect sensitive documents in images 
+✔ Digital watermarking with an encrypted signature 
+✔ Avoid censorship and surveillance
+
 Features:
 
 1.Hide secret messages within images using pixel manipulation.
