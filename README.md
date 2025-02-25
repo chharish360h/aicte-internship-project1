@@ -15,4 +15,4 @@ Features:
 
 5.Uses OpenCV for image handling and manipulation.
 
-6.Uses an simple programming language to implement this. ( can you other programming languages too ).
+6.Uses an simple programming language to implement this. 
